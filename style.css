@@ -1,0 +1,30 @@
+* {
+    background-color: #666699;
+}
+
+header {
+  
+    background-image: url ("https://png.pngtree.com/thumb_back/fh260/back_pic/03/64/88/7957ad99ea3cbf0.jpg") ;
+
+}
+
+h1 {
+    color: #ff9999 ;
+    background-color: #666699;
+    font-size: 50px;
+}
+
+
+.header nav ul li {
+
+    color: lightgray;
+    display: inline ;
+    margin-left: 75%;
+    
+}
+
+
+a {
+    color: #ff9999;
+    display: inline
+}
