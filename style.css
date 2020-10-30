@@ -1,10 +1,10 @@
-* {
+body {
     background-color: #666699;
 }
 
 header {
   
-    background-image: url ("https://png.pngtree.com/thumb_back/fh260/back_pic/03/64/88/7957ad99ea3cbf0.jpg") ;
+    background-image: url("./images/backgroundheader.jpg");
 
 }
 
