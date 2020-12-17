@@ -18,7 +18,8 @@ h1 {
 h2 {
     text-decoration: underline;
     font-size: 30px ;
-    margin-left: 30px ;
+   /* margin-left: 30px ; */
+   text-align: center ;
 }
 
 hr {
@@ -50,7 +51,7 @@ hr {
     
 }
 
-.col-6 {
+.col-6, .col-12 {
     display: inline-block;
     align-items: center;
     padding: 20px ;
@@ -71,6 +72,10 @@ hr {
 .contact ul li {
     display: inline-block;
     padding: 50px;
+}
+
+p {
+    text-align: center ;
 }
 
 
