@@ -48,6 +48,7 @@ hr {
     border-color: #333333;
     border-style: solid;
     justify-content: center;
+    display: flex;
     
 }
 
